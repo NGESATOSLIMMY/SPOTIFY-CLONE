@@ -6,3 +6,16 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.app {
+    display: flex;
+    height: 100vh;
+    background: #121212;
+    color: #fff;
+}
+
+/*SIDEBAR*/
+.sidebar {
+    width: 250px;
+    background: #000;
+    padding: 20px;
+}
